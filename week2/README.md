@@ -51,9 +51,8 @@ Javascript 개념
 
 ---
 ## 공부 참고 자료
-### HTML
-    [https://www.w3schools.com/html/default.as](https://www.w3schools.com/html/default.asp)
-
+### HTML  
+https://www.w3schools.com/html/default.asp  
 - 다양한 HTML 태그
 
     [https://developer.mozilla.org/ko/docs/Web/HTML/Element](https://developer.mozilla.org/ko/docs/Web/HTML/Element)  
@@ -64,7 +63,34 @@ Javascript 개념
 
     [![태그 및 HTML 구조](http://img.youtube.com/vi/T7h8O7dpJIg/0.jpg)](https://youtu.be/T7h8O7dpJIg) 
 
-- HTML 기본 태그
+- HTML 기본 태그  
     https://www.youtube.com/watch?v=I7vgx9q5gCM  
     
     [![HTML 기본 태그](http://img.youtube.com/vi/I7vgx9q5gCM/0.jpg)](https://youtu.be/I7vgx9q5gCM) 
+
+### CSS
+https://www.w3schools.com/css/default.asp
+
+- HTML, CSS 참고 블로그 문서  
+    https://heropy.blog/2019/04/24/html-css-starter/
+- CSS Flex  
+    https://heropy.blog/2018/11/24/css-flexible-box/
+- 기본 문법  
+    https://youtu.be/yZq_B6cQ9mo  
+    [![기본 문법](http://img.youtube.com/vi/yZq_B6cQ9mo/0.jpg)](https://youtu.be/yZq_B6cQ9mo) 
+- 선택자  
+    https://youtu.be/ZDNHpONynUk  
+    [![선택자](http://img.youtube.com/vi/ZDNHpONynUk/0.jpg)](https://youtu.be/ZDNHpONynUk) 
+
+### JavaScript
+[https://www.w3schools.com/js/default.asp](https://www.w3schools.com/js/default.asp)
+- 변수
+    https://youtu.be/__Zz17_5FRU  
+    [![변수](http://img.youtube.com/vi/__Zz17_5FRU/0.jpg)](https://youtu.be/__Zz17_5FRU) 
+- 함수  
+    https://youtu.be/-cAPq25P-68  
+    [![함수](http://img.youtube.com/vi/-cAPq25P-68/0.jpg)](https://youtu.be/-cAPq25P-68) 
+- 정규표현식  
+    https://heropy.blog/2018/10/28/regexp/  
+- 모던 자바스크립트(강추)  
+    https://ko.javascript.info/  
