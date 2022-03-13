@@ -34,7 +34,7 @@
 ## 공부 참고 자료
 ### 쿠키/세션
 - 쿠키와 세션 개념
-    https://interconnection.tistory.com/74
+    - https://interconnection.tistory.com/74
     
 - 세션 vs 토큰 vs 쿠키? 기초개념 잡아드림. 10분 순삭!  
     [![세션 vs 토큰 vs 쿠키](http://img.youtube.com/vi/tosLBcAX1vk/0.jpg)](https://youtu.be/tosLBcAX1vk) 
@@ -44,36 +44,36 @@
     
 ### Node.js
 - node.js란 무엇인가?  
-    [![node.js란](http://img.youtube.com/vi/0BS05cC9U9I/0.jpg)](https://youtu.be/0BS05cC9U9I) 
+    - [![node.js란](http://img.youtube.com/vi/0BS05cC9U9I/0.jpg)](https://youtu.be/0BS05cC9U9I) 
     
-    [![node.js란](http://img.youtube.com/vi/h_t7ZT-nbIQ/0.jpg)](https://youtu.be/h_t7ZT-nbIQ) 
+    - [![node.js란](http://img.youtube.com/vi/h_t7ZT-nbIQ/0.jpg)](https://youtu.be/h_t7ZT-nbIQ) 
     
 - node.js의 특징 및 장단점  
-    https://seoyeonkk.tistory.com/entry/Nodejs-%EC%9D%98-%ED%8A%B9%EC%A7%95-%EB%B0%8F-%EC%9E%A5%EB%8B%A8%EC%A0%90  
+    - https://seoyeonkk.tistory.com/entry/Nodejs-%EC%9D%98-%ED%8A%B9%EC%A7%95-%EB%B0%8F-%EC%9E%A5%EB%8B%A8%EC%A0%90  
     
-    https://junspapa-itdev.tistory.com/3  
+    - https://junspapa-itdev.tistory.com/3  
     
 - express로 node 시작하기  
-    express 공식 문서 : https://expressjs.com/  
+    - express 공식 문서 : https://expressjs.com/  
     
-    https://blog.codefactory.ai/nodejs/creating-server-with-express/express-intro/  
-    https://codepathfinder.com/entry/%EC%9B%B9%EC%84%9C%EB%B2%84-Nodejs-Express-%EC%9B%B9%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95  
+    - https://blog.codefactory.ai/nodejs/creating-server-with-express/express-intro/  
+    - https://codepathfinder.com/entry/%EC%9B%B9%EC%84%9C%EB%B2%84-Nodejs-Express-%EC%9B%B9%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95  
 
 - 라우팅  
-    https://expressjs.com/en/guide/routing.html  
-    https://cotak.tistory.com/85  
-    https://velog.io/@new_wisdom/Node.js-7-Routing  
+    - https://expressjs.com/en/guide/routing.html  
+    - https://cotak.tistory.com/85  
+    - https://velog.io/@new_wisdom/Node.js-7-Routing  
 
 - npm  
-    https://velog.io/@prayme/NPM%EC%9D%B4%EB%9E%80  
-    https://inpa.tistory.com/92?category=890802  
+    - https://velog.io/@prayme/NPM%EC%9D%B4%EB%9E%80  
+    - https://inpa.tistory.com/92?category=890802  
 
 ### http
 - http method  
-    https://kyun2da.dev/CS/http-%EB%A9%94%EC%86%8C%EB%93%9C%EC%99%80-%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C/  
-    https://memostack.tistory.com/180  
+    - https://kyun2da.dev/CS/http-%EB%A9%94%EC%86%8C%EB%93%9C%EC%99%80-%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C/  
+    - https://memostack.tistory.com/180  
 
 ### fetch
 - fetch  
-    https://www.daleseo.com/js-window-fetch/
+    - https://www.daleseo.com/js-window-fetch/
     
