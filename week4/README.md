@@ -25,4 +25,18 @@
  - 이벤트 핸들러 제거  
 ---
 ## 공부 참고 자료
-추가 예정  
+### REST API
+- https://post.naver.com/viewer/postView.naver?volumeNo=30717005&memberNo=6457418&vType=VERTICAL  
+- https://meetup.toast.com/posts/92  
+- 기계들의 대화법 - REST API  
+  [![REST API](http://img.youtube.com/vi/PmY3dWcCxXI/0.jpg)](https://youtu.be/PmY3dWcCxXI)
+
+### JavaScript DOM
+- https://www.w3schools.com/JS/js_htmldom_document.asp
+- https://blog.naver.com/magnking/220972680805
+- 입문자를 위한 자바스크립트 기초  
+  [![자바스크립트 기초](http://img.youtube.com/vi/QTWHK9eyuc8/0.jpg)](https://youtu.be/QTWHK9eyuc8)
+
+### Event Handler
+- http://www.ktword.co.kr/test/view/view.php?no=2744
+- https://unikys.tistory.com/312
