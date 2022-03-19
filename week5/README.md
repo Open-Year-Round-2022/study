@@ -13,7 +13,8 @@
   - CREATE
   - DROP
   - ALTER
- - DML
+ 
+- DDL
   - SELECT
   - UPDATE
   - DELETE
