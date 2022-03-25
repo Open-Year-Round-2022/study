@@ -23,19 +23,18 @@
 ---
 ## 공부 참고 자료
 - DBMS
-https://m.blog.naver.com/sundooedu/221301384166
+  - https://m.blog.naver.com/sundooedu/221301384166
 
 - SQL이란?
-https://youtu.be/z9chRlD1tec  
-https://youtu.be/u4x_GEx8zhw
+  - https://youtu.be/z9chRlD1tec  
+  - https://youtu.be/u4x_GEx8zhw
 
 - MySQL 
-https://jenny-daru.tistory.com/m/29
+  - https://jenny-daru.tistory.com/m/29
 
 - DDL
-https://kkamikoon.tistory.com/entry/MySQL-DDL-명령어-사용하는-방법CREATE-DROP-ALTER-RENAME-TRUNCATE
+  - https://kkamikoon.tistory.com/entry/MySQL-DDL-명령어-사용하는-방법CREATE-DROP-ALTER-RENAME-TRUNCATE
 
 - DML
-https://kkamikoon.tistory.com/entry/MySQL-DML-명령어-사용하는-방법SELECT-INSERT-UPDATE-DELETE  
-
-https://ozofweird.tistory.com/m/entry/MySQL-SQL
+  - https://kkamikoon.tistory.com/entry/MySQL-DML-명령어-사용하는-방법SELECT-INSERT-UPDATE-DELETE  
+  - https://ozofweird.tistory.com/m/entry/MySQL-SQL
