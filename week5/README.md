@@ -37,4 +37,5 @@ https://kkamikoon.tistory.com/entry/MySQL-DDL-명령어-사용하는-방법CREAT
 
 - DML
 https://kkamikoon.tistory.com/entry/MySQL-DML-명령어-사용하는-방법SELECT-INSERT-UPDATE-DELETE  
+
 https://ozofweird.tistory.com/m/entry/MySQL-SQL
