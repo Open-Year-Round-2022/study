@@ -22,14 +22,12 @@
 
 ---
 ## 공부 참고 자료
-- DBMS
-  - https://m.blog.naver.com/sundooedu/221301384166
+### DBMS
+- https://m.blog.naver.com/sundooedu/221301384166
 
-- SQL이란?
-  - https://youtu.be/z9chRlD1tec  
-  - https://youtu.be/u4x_GEx8zhw
-
-- MySQL 
+### MySQL
+  - [![MySQL](http://img.youtube.com/vi/z9chRlD1tec/0.jpg)](https://youtu.be/z9chRlD1tec)
+  - [!MySQL](http://img.youtube.com/vi/u4x_GEx8zhw/0.jpg)](https://youtu.be/u4x_GEx8zhw)
   - https://jenny-daru.tistory.com/m/29
 
 - DDL
