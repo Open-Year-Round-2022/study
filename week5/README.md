@@ -27,7 +27,7 @@
 
 ### MySQL
   - [![MySQL](http://img.youtube.com/vi/z9chRlD1tec/0.jpg)](https://youtu.be/z9chRlD1tec)
-  - [!MySQL](http://img.youtube.com/vi/u4x_GEx8zhw/0.jpg)](https://youtu.be/u4x_GEx8zhw)
+  - [![MySQL](http://img.youtube.com/vi/u4x_GEx8zhw/0.jpg)](https://youtu.be/u4x_GEx8zhw)
   - https://jenny-daru.tistory.com/m/29
 
 - DDL
